@@ -1,8 +1,6 @@
 #  <img src="https://github.com/barbarabeat/barbarabeat/assets/25625728/ebda6957-2e08-4681-8789-b8431aea1199" width="80px"> Hi, I'm Bárbara 
 
-:construction: Under construction :construction:
-
-🔭 I’m currently working at IBM
+🔭 I’m currently working at CI&T
 
 
 ## :steam_locomotive: Skills:
